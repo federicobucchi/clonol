@@ -1,4 +1,5 @@
-# Clonol
+# Clonol  
+Clone an HTML element to a destination including it's CSS
 
 ### Example
 
